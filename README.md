@@ -1,6 +1,5 @@
-// workflow
+### workflow
 
-/**
  * 1. npm init
  * 2. it will generate a package.json folder containing project information
  * 
@@ -33,4 +32,3 @@
  * 
  * app.use(express.json());
  * 
- */
